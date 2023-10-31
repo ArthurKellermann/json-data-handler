@@ -1,0 +1,11 @@
+
+{
+    "name": "paulo",
+    "age": 31,
+    "list": ["Item 1", "Item 2", "Item 3"],
+    "city":{
+        "name":"Rio de janeiro",
+        "state": "RJ"
+    }
+    
+} 

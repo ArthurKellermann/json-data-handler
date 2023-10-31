@@ -1,0 +1,20 @@
+[
+    {
+        "name": "paulo",
+        "age": 31,
+        "list": ["Item 1", "Item 2", "Item 3"],
+        "city": {
+            "name": "Rio de Janeiro",
+            "state": "RJ"
+        }
+    },
+    {
+        "name": "arthur",
+        "age": 12,
+        "list": ["Item 1", "Item 2", "Item 3"],
+        "city": {
+            "name": "Sao Leopoldo",
+            "state": "RS"
+        }
+    }
+]
